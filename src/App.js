@@ -12,8 +12,8 @@ class App extends Component {
             <form className="formh" action="index.js" method="post">
               <label for="">Email atau Telepon</label>
               <label for="">Kata sandi</label>
-              <input id='txtb' type="text" name=" uname " required />
-              <input id='txtb' type="password" name=" psw " required />
+              <input className="txtb" type="text" name=" uname " required />
+              <input className="txtb" type="password" name=" psw " required />
               <button id='btn'><b>Masuk</b></button>
               <a href="#">Lupa akun?</a>
             </form>

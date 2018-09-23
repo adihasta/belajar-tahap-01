@@ -36,11 +36,11 @@
   margin-right: 12px;
 }
 
-#txtb{
+.txtb{
   border: 1px solid;
   width: 150px;
   margin-right: 6px;
-  padding: 3px 0px;
+  padding: 3px 3px;
 }
 
 #btn{
@@ -53,6 +53,8 @@ padding: 3px 8px;
 .formh a{
   text-decoration: none;
   color: #6da5ce;
+  float:right;
+  margin-right: 150px;
 }
 
 .cent{
