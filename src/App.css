@@ -93,7 +93,7 @@ padding: 3px 8px;
   margin-bottom: 10px;
 }
 
-#txt1{
+.txt1{
   font-size: 18px;
   padding: 8.5px;
   border: 1px solid #bdc7d8;
@@ -103,7 +103,7 @@ padding: 3px 8px;
   width: 190px;
 }
 
-#txt2{
+.txt2{
   font-size: 18px;
   padding: 8px;
   border: 1px solid #bdc7d8;
